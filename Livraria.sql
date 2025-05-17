@@ -1,6 +1,6 @@
 -- Criando o banco de dados
-CREATE DATABASE IF NOT EXISTS livraria;
-USE livraria;
+CREATE DATABASE IF NOT EXISTS biblioteca;
+USE biblioteca;
 
 -- Tabela de Autores
 CREATE TABLE Autores (
