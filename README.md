@@ -6,7 +6,7 @@ O projeto inclui um Diagrama ER, que representa graficamente as entidades, atrib
 Você pode visualizar o diagrama no arquivo: diagrama-er.png
 
 🗂 Estrutura do Banco de Dados
-O banco de dados se chama livraria e é composto pelas seguintes tabelas:
+O banco de dados se chama biblioteca e é composto pelas seguintes tabelas:
 
 1. Autores
 Armazena informações sobre os autores dos livros.
