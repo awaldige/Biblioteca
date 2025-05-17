@@ -1,5 +1,5 @@
-📚 Banco de Dados: Livraria
-Este projeto apresenta a modelagem e criação de um banco de dados relacional para gerenciamento de uma livraria, utilizando MySQL. O banco permite o controle de livros, autores, editoras, gêneros, idiomas e exemplares.
+📚 Banco de Dados: biblioteca
+Este projeto apresenta a modelagem e criação de um banco de dados relacional para gerenciamento de uma biblioteca, utilizando MySQL. O banco permite o controle de livros, autores, editoras, gêneros, idiomas e exemplares.
 
 🖼 Diagrama Entidade-Relacionamento (ER)
 O projeto inclui um Diagrama ER, que representa graficamente as entidades, atributos e relacionamentos do banco de dados.
@@ -98,4 +98,4 @@ Este projeto é um exemplo educacional de modelagem de banco de dados.
 
 Pode ser expandido com funcionalidades como: usuários, empréstimos, reservas e histórico de movimentações.
 
-Desenvolvido como exercício de prática em SQL e modelagem de dados.# Livraria
+Desenvolvido como exercício de prática em SQL e modelagem de dados.# biblioteca
